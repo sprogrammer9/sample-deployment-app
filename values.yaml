@@ -15,8 +15,8 @@ nameOverride: "sampleapp"
 fullnameOverride: "sampleapp-chart"
 
 env:
-  stage: "production"
-  name: Umlkd2FuCg==
+  stage: "uat"
+  name: V2ViQXBwCg==
 
 serviceAccount:
   # Specifies whether a service account should be created
